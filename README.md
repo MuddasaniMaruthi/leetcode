@@ -19,16 +19,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -64,9 +67,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Sorting
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

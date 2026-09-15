@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |

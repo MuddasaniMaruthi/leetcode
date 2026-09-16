@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
 |  |
@@ -86,13 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->

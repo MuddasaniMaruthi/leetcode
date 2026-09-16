@@ -11,12 +11,15 @@
 class Solution {
     public ListNode mergeNodes(ListNode head) {
         ArrayList<Integer>list=new ArrayList<>();
-        
+        ListNode dummy=new ListNode(0);
+        ListNode heads=dummy;
         int sum=0;
        ListNode temp=head;
        while(temp!=null){
-        if(temp.val==0){
-            list.add(sum);
+        if(temp.val==0&&sum!=0){
+
+            heads.next=new ListNode(sum);
+            heads=heads.next;
             sum=0;
         }
         else{
@@ -24,12 +27,8 @@ class Solution {
         }
         temp=temp.next;
        }
-        ListNode dummy=new ListNode(list.get(0));
-        ListNode heads=dummy;
-        for(int i=1;i<list.size();i++){
-            heads.next=new ListNode(list.get(i));
-            heads=heads.next;
-        }
+        
+        
         return dummy.next;
 
         

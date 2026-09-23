@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Backtracking
 |  |
 | ------- |

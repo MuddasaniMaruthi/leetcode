@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0070-climbing-stairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3870-count-commas-in-range) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

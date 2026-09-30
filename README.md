@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |

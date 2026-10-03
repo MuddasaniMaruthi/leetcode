@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0016-3sum-closest) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
@@ -165,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0016-3sum-closest) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

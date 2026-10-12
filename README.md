@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0070-climbing-stairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3870-count-commas-in-range) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |

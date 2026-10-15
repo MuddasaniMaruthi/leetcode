@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |

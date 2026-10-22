@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -188,10 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

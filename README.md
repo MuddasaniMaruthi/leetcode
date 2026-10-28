@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |

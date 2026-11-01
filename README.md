@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [1669-merge-in-between-linked-lists](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |

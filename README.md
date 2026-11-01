@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

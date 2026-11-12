@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MuddasaniMaruthi/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuddasaniMaruthi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MuddasaniMaruthi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/MuddasaniMaruthi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
